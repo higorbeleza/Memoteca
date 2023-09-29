@@ -1,0 +1,46 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "O auto-controle é uma ilusão.",
+      "autoria": "- LolzCec",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 5
+    },
+    {
+      "conteudo": "Sofremos mais pela nossa imaginação do que a nossa própria realidade.",
+      "autoria": "- LolzCec",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 6
+    },
+    {
+      "conteudo": "A mente que está ansiosa com os eventos futuros é miséravel.",
+      "autoria": "- LolzCec",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 7
+    },
+    {
+      "conteudo": "Nossos relacionamentos são um reflexo da qualidade de nosso próprio caráter.",
+      "autoria": "lolz",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 8
+    },
+    {
+      "conteudo": "exemplo 1",
+      "autoria": "teste",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 10
+    },
+    {
+      "conteudo": "exemplo 2",
+      "autoria": "teste 2",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 11
+    }
+  ]
+}
